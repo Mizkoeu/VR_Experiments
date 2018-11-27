@@ -1,0 +1,16 @@
+﻿<Properties StartupConfiguration="{D6E1C393-40D0-763B-D394-06D9E5E8F261}|">
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="Unity.Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/WorldManager.cs">
+    <Files>
+      <File FileName="Assets/Scripts/BounceBall.cs" Line="36" Column="2" />
+      <File FileName="Assets/Scripts/ControlWheel.cs" Line="13" Column="1" />
+      <File FileName="Assets/Scripts/WorldManager.cs" Line="13" Column="17" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>
